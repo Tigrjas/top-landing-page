@@ -12,3 +12,8 @@ https://www.theodinproject.com/lessons/foundations-landing-page
 - jazz music Photo by <a href="https://unsplash.com/@spexypants?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ayush Kumar</a> on <a href="https://unsplash.com/photos/a-black-and-white-photo-of-the-word-jazz-9gwZ_vRE8AI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 - edm Photo by <a href="https://unsplash.com/@litvinov?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Egor Litvinov</a> on <a href="https://unsplash.com/photos/a-blurry-photo-of-a-person-with-a-cell-phone-y0tuynsZELY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 - disco Photo by <a href="https://unsplash.com/@brett_jordan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Brett Jordan</a> on <a href="https://unsplash.com/photos/vinyl-record-on-white-table-P_LEitbpCPg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+
+## Todo
+ [] Get the call to action set up
+ [] get the copy right set up

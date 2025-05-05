@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-section {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1F2937;
+}
+
+.header-section img {
+    width: 70px;
+    height: auto;
+}
+
+.header-section ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.header-section a {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.hero-section {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    padding: 90px;
+    gap: 20px;
+}
+
+.hero-content {
+    color: #F9FAF8;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.hero-content button {
+    height: 30px;
+    border-color: #3882F6;
+}
+
+.hero-content h2 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.hero-section img {
+    max-width: 50%;
+}
+
+.info-section {
+    padding: 30px;
+}
+
+.info-header {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.info-cards {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+
+.info-card img {
+    max-width: 100px;
+    border-radius: 25px;
+    border: 4px solid #4D81F0;
+}
+
+.quote-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding: 70px 200px 70px 200px;
+    gap: 20px;
+}
+
+.quote-section blockquote {
+    font-size: 36px;
+    font-weight: light;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.quote-section cite {
+    align-self: flex-end;
+    font-weight: bolder;
+}
+
+.cta-section {
+    padding: 50px 200px 50px 100px;
+}
+
+.cta {
+    background-color: #3882F6;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    color: white;
+}
+
+button {
+    width: 100px;
+    height: auto;
+    border-radius: 10px;
+    background-color: #3882F6;
+    color: white;
+    border-style: solid;
+    border-color: white;
+}
+
+footer {
+    background-color: #1F2937;
+}
+
+.footer-text {
+    color: white;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
